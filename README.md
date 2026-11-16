@@ -1,8 +1,8 @@
 # ember-yard
 
-[![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/lisasa2526/ember-yard/rank.svg)](https://make.fun/bounty/threejs-fps-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/lisasa2526/ember-yard/reward.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/lisasa2526/ember-yard/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/lisasa2526/ember-yard/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 Ember Yard is a round-based tactical FPS that runs in a desktop browser on three.js — single-player, you plus two bot teammates against three bot defenders. The map is a freight container yard at dusk. Your team, AZURE, pushes one of two sites, plants the charge, and defends it until it blows. EMBER holds the sites and tries to defuse. First to 5 rounds takes the yard. Between rounds you earn cash for eliminations and round wins and spend it on rifles, a bolt sniper, armour and ammo. The bots patrol the yard, spot you by line of sight, strafe and fire in bursts with human-like reaction times, converge on a planted charge to defuse it, and push a site to plant when they are on attack. The whole game is procedural — map, textures, sounds — so it runs from static files with no build step and no network at all.
 
@@ -31,4 +31,4 @@ WASD move · mouse aim · click fire · R reload · E hold to plant / defuse · 
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=9htc57re&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=9htc57re&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
